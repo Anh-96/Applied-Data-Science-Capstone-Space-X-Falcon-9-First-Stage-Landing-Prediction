@@ -2,6 +2,7 @@
 
 🛰️ SpaceX Falcon 9 Launch Analysis
 Capstone Project – IBM Data Science Professional Certificate
+
 Date: October 2025
 
 📖 Overview
@@ -12,13 +13,13 @@ Date: October 2025
 
 🎯 Objectives
 
-  Understand the patterns behind successful and failed Falcon 9 launches
+  * Understand the patterns behind successful and failed Falcon 9 launches
   
-  Explore the relationship between payload mass, orbit type, and launch site
+  * Explore the relationship between payload mass, orbit type, and launch site
   
-  Build predictive models to classify landing outcomes
+  * Build predictive models to classify landing outcomes
   
-  Create interactive visualizations and dashboards for analysis
+  * Create interactive visualizations and dashboards for analysis
   
 
 🧩 Methodology
