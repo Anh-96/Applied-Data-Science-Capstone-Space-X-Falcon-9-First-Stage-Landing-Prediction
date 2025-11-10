@@ -10,7 +10,6 @@ Date: October 2025
   This project explores SpaceX Falcon 9 launch data to analyze factors influencing launch success and booster reusability.
   By integrating SpaceX APIs, web scraping, and machine learning models, the project aims to identify operational trends and predict successful landings — supporting cost-effective space mission planning.
 
-  
 
 🎯 Objectives
 
@@ -19,7 +18,6 @@ Date: October 2025
   * Build predictive models to classify landing outcomes 
   * Create interactive visualizations and dashboards for analysis
   
-
 
 🧩 Methodology
   1. Data Collection
